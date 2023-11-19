@@ -1,0 +1,24 @@
+!SESSION 2023-11-19 14:36:07.638 -----------------------------------------------
+eclipse.buildId=2023.1.4.1
+java.version=11.0.18
+java.vendor=BellSoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\AdvancedQueryTool-1-\edt
+
+!ENTRY com.company1c.link.ide.edt 1 0 2023-11-19 14:36:15.648
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\AdvancedQueryTool-1-\edt\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-11-19 14:36:18.912
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-11-19 14:36:18.913
+!MESSAGE java.vm.info=mixed mode
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-11-19 14:36:19.589
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2023-11-19 14:36:30.836
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2023-11-19 14:36:30.837
+!MESSAGE 
