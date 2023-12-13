@@ -67,6 +67,7 @@
         <wrap>true</wrap>
         <choiceButton>true</choiceButton>
         <clearButton>false</clearButton>
+        <choiceFoldersAndItems>FoldersAndItems</choiceFoldersAndItems>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>
         <textEdit>true</textEdit>
@@ -617,7 +618,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.КонсольЗапросов9000</types>
+      <types>ExternalDataProcessor.КонсольЗапросов9000</types>
     </valueType>
     <view>
       <common>true</common>

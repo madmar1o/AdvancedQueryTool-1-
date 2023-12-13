@@ -249,6 +249,18 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <attributes uuid="67f56486-5a08-4d05-b1a0-054e3b698099">
+    <name>ДеревоЗапроса</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дерево запроса</value>
+    </synonym>
+    <type>
+      <types>ValueTree</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
   <forms uuid="157edcd1-f256-48ed-b822-d7ca5ede50d8">
     <name>Форма</name>
     <synonym>
